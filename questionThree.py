@@ -4,5 +4,5 @@ sum= (sum(student_marks))
 print("the sum of the items in the student marks list is..." +str(sum))
 
 #(ii)
-student_marks 
+First= student_marks[0]
 
